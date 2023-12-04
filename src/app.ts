@@ -17,10 +17,8 @@ const generateReadMe = (answers: IAnswers) =>
 
 # Table of Contents
 ### [Installation](#Installation)
-### [Technologies](#Technologies)
-### [Future Development](#Future-Development)
-### [Contact](#Contact)
-### [Licenses](#Licenses)
+### [Usage](#Usage)
+### [localdev](#Local Dev)
 
 # Installation 
 ${answers.installation}
