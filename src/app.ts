@@ -36,7 +36,7 @@ inquirer
   .prompt([
     {
       type: 'input',
-      name: 'name',
+      name: 'title',
       message: 'Enter this applications name',
       validate: function (title: string) {
         if (!title || title === "") {
